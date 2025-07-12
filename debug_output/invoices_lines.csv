@@ -1,0 +1,4 @@
+file,description,qty,unit_price,amount
+test_invoice_1,Service 1,2,400.00,800.00
+test_invoice_1,Service 2,1,200.00,200.00
+test_invoice_2,Product 1,1,500.00,500.00

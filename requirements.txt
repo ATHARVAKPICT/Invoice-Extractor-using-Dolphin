@@ -1,5 +1,30 @@
+<<<<<<< Updated upstream
 dolphin-ocr
 pandas
 pydantic
 pdf2image
 opencv-python
+=======
+# Core dependencies
+pandas>=1.5.0
+pydantic>=1.10.0
+pdf2image>=3.1.0
+opencv-python>=4.5.0
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Dolphin OCR dependencies
+transformers>=4.20.0
+pillow>=9.0.0
+numpy>=1.21.0
+requests>=2.28.0
+
+# Testing and development
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+ruff>=0.0.250
+
+# Optional GPU support
+# torch[cuda] - uncomment for CUDA support
+>>>>>>> Stashed changes

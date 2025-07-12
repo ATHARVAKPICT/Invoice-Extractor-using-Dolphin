@@ -1,0 +1,3 @@
+file,vendor_name,invoice_no,invoice_date,currency,grand_total,processing_time,status
+test_invoice_1,Test Vendor 1,INV-001,2024-01-15,INR,1000.00,1.5,success
+test_invoice_2,Test Vendor 2,INV-002,2024-01-16,USD,500.00,2.0,success
