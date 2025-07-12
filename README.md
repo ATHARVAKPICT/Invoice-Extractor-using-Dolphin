@@ -188,9 +188,6 @@ Run the test suite:
 pytest tests/ -v --cov=utils --cov=scan2csv
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
