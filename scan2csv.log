@@ -1,0 +1,90 @@
+2025-07-12 14:32:00,304 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 14:32:00,305 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 14:40:56,621 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 14:40:56,622 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 14:45:48,469 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 14:45:48,470 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 14:45:48,753 - INFO - Input directory: sample_scans
+2025-07-12 14:45:48,753 - INFO - Output CSV: output.csv
+2025-07-12 14:45:48,753 - INFO - Output JSON: output.json
+2025-07-12 14:45:48,758 - INFO - Using model from: hf_model
+2025-07-12 14:45:48,759 - INFO - Running Dolphin layout parser on input directory...
+2025-07-12 14:45:48,759 - ERROR - Error during processing: run_dolphin_on_folder() takes 2 positional arguments but 3 were given
+2025-07-12 14:47:56,866 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 14:47:56,866 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 14:47:57,165 - INFO - Input directory: sample_scans
+2025-07-12 14:47:57,165 - INFO - Output CSV: output.csv
+2025-07-12 14:47:57,165 - INFO - Output JSON: output.json
+2025-07-12 14:47:57,166 - INFO - Using model from: hf_model
+2025-07-12 14:47:57,166 - INFO - Running Dolphin layout parser on input directory...
+2025-07-12 14:47:57,166 - ERROR - Error during processing: run_dolphin_on_folder() got an unexpected keyword argument 'model_path'
+2025-07-12 14:48:09,860 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 14:48:09,860 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 14:48:10,132 - INFO - Input directory: sample_scans
+2025-07-12 14:48:10,133 - INFO - Output CSV: output.csv
+2025-07-12 14:48:10,133 - INFO - Output JSON: output.json
+2025-07-12 14:48:10,133 - INFO - Using model from: hf_model
+2025-07-12 14:48:10,133 - INFO - Running Dolphin layout parser on input directory...
+2025-07-12 14:48:10,134 - ERROR - Error during processing: run_dolphin_on_folder() got an unexpected keyword argument 'model_path'
+2025-07-12 14:48:17,219 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 14:48:17,219 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 14:48:17,515 - INFO - Input directory: sample_scans
+2025-07-12 14:48:17,515 - INFO - Output CSV: output.csv
+2025-07-12 14:48:17,515 - INFO - Output JSON: output.json
+2025-07-12 14:48:17,516 - INFO - Using model from: hf_model
+2025-07-12 14:48:17,516 - INFO - Running Dolphin layout parser on input directory...
+2025-07-12 14:48:17,518 - INFO - Found 8 files to process
+2025-07-12 14:48:17,518 - INFO - Processing 20200727102729542.pdf...
+2025-07-12 14:51:17,837 - ERROR -  Timeout processing sample_scans\20200727102729542.pdf (>180s)
+2025-07-12 14:51:17,838 - INFO - Processing 20200916101401473.pdf...
+2025-07-12 14:54:18,102 - ERROR -  Timeout processing sample_scans\20200916101401473.pdf (>180s)
+2025-07-12 14:54:18,103 - INFO - Processing GUOCO 17JUL20 USD2,342,194.62.pdf...
+2025-07-12 14:57:18,435 - ERROR -  Timeout processing sample_scans\GUOCO 17JUL20 USD2,342,194.62.pdf (>180s)
+2025-07-12 14:57:18,436 - INFO - Processing OR - USD300,000.00.pdf...
+2025-07-12 15:06:47,254 - ERROR -  Timeout processing sample_scans\OR - USD300,000.00.pdf (>180s)
+2025-07-12 15:06:47,255 - INFO - Processing 20200727102729542.pdf...
+2025-07-12 15:10:48,999 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 15:10:48,999 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 15:10:49,288 - INFO - Input directory: sample_scans
+2025-07-12 15:10:49,289 - INFO - Output CSV: output.csv
+2025-07-12 15:10:49,289 - INFO - Output JSON: output.json
+2025-07-12 15:10:49,289 - INFO - Using model from: hf_model
+2025-07-12 15:10:49,289 - INFO - Running Dolphin layout parser on input directory...
+2025-07-12 15:10:49,290 - INFO - Found 8 files to process
+2025-07-12 15:10:49,291 - INFO - Processing 20200727102729542.pdf...
+2025-07-12 15:13:49,574 - ERROR -  Timeout processing sample_scans\20200727102729542.pdf (>180s)
+2025-07-12 15:13:49,574 - INFO - Processing 20200916101401473.pdf...
+2025-07-12 15:16:49,833 - ERROR -  Timeout processing sample_scans\20200916101401473.pdf (>180s)
+2025-07-12 15:16:49,833 - INFO - Processing GUOCO 17JUL20 USD2,342,194.62.pdf...
+2025-07-12 15:19:50,076 - ERROR -  Timeout processing sample_scans\GUOCO 17JUL20 USD2,342,194.62.pdf (>180s)
+2025-07-12 15:19:50,077 - INFO - Processing OR - USD300,000.00.pdf...
+2025-07-12 15:22:50,313 - ERROR -  Timeout processing sample_scans\OR - USD300,000.00.pdf (>180s)
+2025-07-12 15:22:50,313 - INFO - Processing 20200727102729542.pdf...
+2025-07-12 15:25:50,582 - ERROR -  Timeout processing sample_scans\20200727102729542.pdf (>180s)
+2025-07-12 15:25:50,583 - INFO - Processing 20200916101401473.pdf...
+2025-07-12 15:28:50,833 - ERROR -  Timeout processing sample_scans\20200916101401473.pdf (>180s)
+2025-07-12 15:28:50,834 - INFO - Processing GUOCO 17JUL20 USD2,342,194.62.pdf...
+2025-07-12 15:31:51,098 - ERROR -  Timeout processing sample_scans\GUOCO 17JUL20 USD2,342,194.62.pdf (>180s)
+2025-07-12 15:31:51,098 - INFO - Processing OR - USD300,000.00.pdf...
+2025-07-12 15:34:51,324 - ERROR -  Timeout processing sample_scans\OR - USD300,000.00.pdf (>180s)
+2025-07-12 15:34:51,325 - WARNING - No valid invoices processed
+2025-07-12 15:47:31,139 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 15:47:31,140 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 15:47:31,440 - INFO - Input directory: sample_scans
+2025-07-12 15:47:31,440 - INFO - Output CSV: output.csv
+2025-07-12 15:47:31,441 - INFO - Output JSON: output.json
+2025-07-12 15:47:31,441 - INFO - Using model from: hf_model
+2025-07-12 15:47:31,441 - INFO - Running Dolphin layout parser on input directory...
+2025-07-12 15:47:31,442 - INFO - Found 8 files to process
+2025-07-12 15:47:31,443 - INFO - Processing 20200727102729542.pdf...
+2025-07-12 15:49:11,870 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-12 15:49:11,870 - INFO - NumExpr defaulting to 8 threads.
+2025-07-12 15:49:12,213 - INFO - Input directory: sample_scans
+2025-07-12 15:49:12,214 - INFO - Output CSV: output.csv
+2025-07-12 15:49:12,214 - INFO - Output JSON: output.json
+2025-07-12 15:49:12,214 - INFO - Using model from: hf_model
+2025-07-12 15:49:12,214 - INFO - Running Dolphin layout parser on input directory...
+2025-07-12 15:49:12,216 - INFO - Found 8 files to process
+2025-07-12 15:49:12,216 - INFO - Processing 20200727102729542.pdf...
+2025-07-12 17:09:06,487 - ERROR -  Timeout processing sample_scans\20200727102729542.pdf (>360s)
+2025-07-12 17:09:06,489 - INFO - Processing 20200916101401473.pdf...
